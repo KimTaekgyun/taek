@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\gram\\source\\repos\\openproject\\",
+  "WorkspaceRootPath": "C:\\openproject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{22F572EC-5D26-4B0F-B8FF-1434AC3F9ACB}|openproject\\openproject.vcxproj|C:\\Users\\gram\\source\\repos\\openproject\\openproject\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{22F572EC-5D26-4B0F-B8FF-1434AC3F9ACB}|openproject\\openproject.vcxproj|C:\\openproject\\openproject\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{22F572EC-5D26-4B0F-B8FF-1434AC3F9ACB}|openproject\\openproject.vcxproj|solutionrelative:openproject\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.c",
-              "DocumentMoniker": "C:\\Users\\gram\\source\\repos\\openproject\\openproject\\main.c",
+              "DocumentMoniker": "C:\\openproject\\openproject\\main.c",
               "RelativeDocumentMoniker": "openproject\\main.c",
-              "ToolTip": "C:\\Users\\gram\\source\\repos\\openproject\\openproject\\main.c",
+              "ToolTip": "C:\\openproject\\openproject\\main.c",
               "RelativeToolTip": "openproject\\main.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-12-04T11:48:37.789Z",
               "EditorCaption": ""
