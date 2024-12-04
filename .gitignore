@@ -2,3 +2,4 @@
 *.json
 *.db
 *.ipch
+.vs/openproject/v17/Browse.VC.opendb
