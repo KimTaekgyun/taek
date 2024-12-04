@@ -16,6 +16,14 @@ if (scanf("%d", &guess) != 1) {
     printf("유효한 숫자를 입력하세요!\n");
 }
 
+char playAgain;
+do {
+    // 기존 게임 로직 실행
+    printf("게임을 다시 시작하시겠습니까? (y/n): ");
+    while (getchar() != '\n'); // 입력 버퍼 비우기
+    scanf("%c", &playAgain);
+} while (playAgain == 'y' || playAgain == 'Y');
+
 int main() {
     printf("숫자 추측 게임에 오신 것을 환영합니다!\n");
     return 0;
